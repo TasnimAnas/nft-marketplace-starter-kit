@@ -1,8 +1,8 @@
 {
-  "name": "nft-marketplace",
+  "name": "warranty-through-nft",
   "version": "0.1.0",
-  "description": "An NFT Marketplace",
-  "author": "clarionnorth@gmail.com",
+  "description": "A warranty provider through NFTs",
+  "author": "tranas1818@gmail.com",
   "dependencies": {
     "@metamask/detect-provider": "^1.2.0",
     "@openzeppelin/contracts": "^4.3.1",
